@@ -1,0 +1,6 @@
+#Ignoring the .pyc files
+*.pyc
+*.sqlite
+test/*
+*.komodoproject
+
